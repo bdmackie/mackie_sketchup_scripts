@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!mackie_scripts.rb
+
+# ..or these subdirectories...
+!mackie_scripts
+!mackie_scripts/**
